@@ -222,9 +222,7 @@
  * Posts
  */
 .post-header {
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit;
 }
 
 .post-title {
@@ -239,6 +237,9 @@
 }
 
 .post-content {
+  border-radius: 45px;
+  border: 1px solid black;
+  padding: 15px 15px;
   margin-bottom: $spacing-unit;
 
   h2 {

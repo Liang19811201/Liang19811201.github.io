@@ -3,8 +3,10 @@ layout: post
 title:  "Questions regarding CSS?"
 date:   2019-11-14 03:57:07 -0600
 categories: jekyll update
+comments: true
 ---
 
+# Answers:
 - What do you think of pre-compiling your CSS?
  1. Compare to regular CSS:
  2. Which techniques did you use?

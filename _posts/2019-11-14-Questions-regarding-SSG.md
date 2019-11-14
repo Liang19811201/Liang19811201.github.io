@@ -3,8 +3,10 @@ layout: post
 title:  "Questions regarding SSG"
 date:   2019-11-14 03:57:07 -0600
 categories: jekyll update
+comments: true
 ---
 
+# Answers:
 - What do you think of static site generators?
 
 - What is robots.txt and how have you configure it for your site?

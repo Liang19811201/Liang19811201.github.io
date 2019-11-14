@@ -98,14 +98,16 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
+h2, em {
+  color: $answers-color;
+}
+
 
 
 /**
  * Links
  */
-nav {
-  border-radius: 10px;
-}
+
 a {
   color: $brand-color;
   text-decoration: none;

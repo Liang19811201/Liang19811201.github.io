@@ -6,7 +6,7 @@ categories: jekyll update
 comments: true
 ---
 
-# Answers:
+## Answers:
 - What do you think of static site generators?
 
      *I think it is a very effient way of genrating sites. It orgnizes the folder structure and files for you. Good performance, easy versions handling, pretty safe and simple trafic cashes*
@@ -29,4 +29,4 @@ comments: true
 
 - What is Open Graph and how do you make use of it?
 
-     *
+     *Open Graph is about to show a preview of the site in a mini scale so the users can quickly get a idea of what the site is about. I wrote the meta data regarding title, image, content and type in head in my jekyll site.*

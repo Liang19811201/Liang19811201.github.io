@@ -21,11 +21,7 @@
 title: Liang's site
 email: andrew1129@live.se
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Liang, and i come from China. I moved to Sweden 2007 for studying glass design 
-  in Nybro. Right now i work with E-commerce but dream about starting my own business and live 
-  in freedom, so i can combine my work and hobby. I love kitesurfing, snowboarding, biking and 
-  paiting oil on carvas. I have a son who is 11 years old, we live in Kalmar. So just wait until 
-  he turns 18, i will move to some place warm during winter time in Sweden. 
+  I study Web Programming in LNU. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instag_username: liang_liang_81

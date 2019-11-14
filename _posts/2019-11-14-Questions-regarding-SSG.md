@@ -9,12 +9,24 @@ comments: true
 # Answers:
 - What do you think of static site generators?
 
-     *I think it is a very effient way of genrating a frame where you can follow the structure and start to edit the site. It orgnizes the files for you.*
+     *I think it is a very effient way of genrating sites. It orgnizes the folder structure and files for you. Good performance, easy versions handling, pretty safe and simple trafic cashes*
+
+     - What type of projects are they suitable for?
+
+       *Simple website but with a lot of data trafic such as blogs.*
 
 - What is robots.txt and how have you configure it for your site?
 
+     *It is an initiative for handling web robots. It's a TXT file that contains information about which information can be found by robot, which are hidden from them.*
+
 - What is humans.txt and how have you configure it for your site?
 
+     *It's an initiative for knowing the people behind a website. It's a TXT file that contains information about the different people who have contributed to building the website.*
+
 - How did you implements comments to blog posts?
+   
+     *I use disqus.com for the comments. Firstly create an acount in disqus and copy paste the codes from disqus to my jekyll site.*  
 
 - What is Open Graph and how do you make use of it?
+
+     *

@@ -12,3 +12,8 @@ comments: true
  2. Which techniques did you use?
  3. Pros and cons?
 
+
+  *To pre-compile my CSS needs an overview of the whole site design*
+  *Variables for colors.*
+  *Pros: less CSS to maintain, easy to change one place and be valid everywhere(variable), which leads to saved time. Better orgnized CSS: use mixins; nesting; separate in files. Cons: hard to debug the code, Line numbers in browser !== line numbers in source.*
+

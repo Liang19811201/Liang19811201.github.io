@@ -1,1 +1,9 @@
-<link type="text/plain" rel="jekyll" href="http://domain/humans.txt" />
+/* TEAM */
+	Web Editor: Liang Tong
+	From:China
+
+/* SITE */
+	Last update:2019/11/14
+	Language: English
+	Doctype:HTML5
+	IDE: Jekyll, Visual studio code, Photoshop
